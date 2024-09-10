@@ -71,7 +71,7 @@ O código foi refatorado para melhorar sua legibilidade e seguir os princípios 
 1. **Clone o repositório:**
 
    ```bash
-   git clone <https://github.com/seu-usuario/nome-do-projeto.git>
+   git clone https://github.com/jeffersonrodrigo/bootcamp_java_2024.git
    ```
 
 2. **Compile os arquivos Java:** No terminal, execute o comando:
