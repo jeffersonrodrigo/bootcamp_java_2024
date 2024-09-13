@@ -1,18 +1,16 @@
-## Getting Started
+## Desafio POO Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido durante o desafio de projeto em Java, oferecido pela DIO no bootcamp **Claro - Java com Spring Boot**. Ele consiste em um **gerenciador de Bootcamps e Devs**, onde é possível inscrever desenvolvedores em Bootcamps, registrar o progresso nos conteúdos e calcular a experiência (XP) adquirida.
 
-## Folder Structure
+## Funcionalidades:
 
-The workspace contains two folders by default, where:
+- Inscrição de desenvolvedores em bootcamps.
+- Adição de conteúdos (cursos e mentorias) a bootcamps.
+- Progresso dos devs nos conteúdos inscritos.
+- Cálculo da XP acumulada pelos devs ao completar conteúdos.
+- Controle de conteúdos inscritos e concluídos pelos devs.
+- Exibição de informações sobre os devs e seus avanços.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Autor:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Projeto desenvolvido por **Jefferson Rodrigo**, como parte dos estudos na **DIO**.
