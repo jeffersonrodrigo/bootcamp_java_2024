@@ -1,4 +1,6 @@
-import br.com.desafio.dominio.Curso;
+package br.com.desafio.dominio;
+
+import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -12,7 +14,13 @@ public class Main {
         curso2.setDescricao("Curso de javaScript");
         curso2.setCargaHoraria(4);
 
+        Mentoria mentoria = new Mentoria();
+        mentoria.setTitulo("Mentoria de java");
+        mentoria.setDescricao("Descrição da mentoria");
+        mentoria.setData(LocalDate.now());
+
         System.out.println(curso1);
         System.out.println(curso2);
+        System.out.println(mentoria);
     }
 }
